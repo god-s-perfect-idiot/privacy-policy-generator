@@ -1,0 +1,23 @@
+{
+  "name": "privacy-policy-generator",
+  "version": "1.0.0",
+  "description": "Privacy Policy Generator for Watch Faces (Personal Repo. Please dont fork)",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/god-s-perfect-idiot/privacy-policy-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/god-s-perfect-idiot/privacy-policy-generator/issues"
+  },
+  "homepage": "https://github.com/god-s-perfect-idiot/privacy-policy-generator#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
